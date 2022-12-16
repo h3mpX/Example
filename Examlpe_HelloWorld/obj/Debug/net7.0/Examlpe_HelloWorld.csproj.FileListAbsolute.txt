@@ -1,0 +1,15 @@
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\bin\Debug\net7.0\Examlpe_HelloWorld.exe
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\bin\Debug\net7.0\Examlpe_HelloWorld.deps.json
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\bin\Debug\net7.0\Examlpe_HelloWorld.runtimeconfig.json
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\bin\Debug\net7.0\Examlpe_HelloWorld.dll
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\bin\Debug\net7.0\Examlpe_HelloWorld.pdb
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.AssemblyInfo.cs
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.dll
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\refint\Examlpe_HelloWorld.dll
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.pdb
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\Examlpe_HelloWorld.genruntimeconfig.cache
+C:\Users\h3mp_\Desktop\Examples\Examlpe_HelloWorld\obj\Debug\net7.0\ref\Examlpe_HelloWorld.dll
